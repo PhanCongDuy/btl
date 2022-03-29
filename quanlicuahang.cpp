@@ -6,3 +6,4 @@
 struct ngaysinh{
 	int ngay, thang, nam;
 };
+ struct khachhang a;
