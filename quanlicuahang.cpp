@@ -10,3 +10,7 @@ struct hanghoa
 {
 	char ten[];
 };
+ 
+struct khachhang {
+      char ten[10];
+}
