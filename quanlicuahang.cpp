@@ -6,3 +6,7 @@
 struct ngaysinh{
 	int ngay, thang, nam;
 };
+struct hanghoa 
+{
+	char ten[];
+};
